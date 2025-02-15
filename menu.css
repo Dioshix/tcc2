@@ -1,0 +1,17 @@
+#Robôs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+#prototipos {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 24;
+    margin-top: 32px;
+}
+
+
